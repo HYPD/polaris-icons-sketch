@@ -7,10 +7,10 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "Search in Polaris Icons",
+      "name": "Polaris Icons",
       "identifier": "shopify.polaris-icons.show-plugin",
       "script": "./plugin.js",
-      "shortcut": "command ctrl p"
+      "shortcut": "command ctrl i"
     }
   ],
   "menu": {
