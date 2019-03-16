@@ -1,8 +1,8 @@
-![Cover image](https://dnl.rs/s/k91cx2x.png)
-
 # Polaris Icons
 
 > Access Polaris Icons from [Sketch](https://sketchapp.com/) to speed up your design or development workflow.
+
+![Cover image](https://dnl.rs/s/k91cx2x.png)
 
 ## Speed up your workflow
 
