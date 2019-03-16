@@ -4,6 +4,11 @@
 
 ![Cover image](https://dnl.rs/s/k91cx2x.png)
 
+## Install and build
+1. Clone this repo `git clone git@github.com:HYPD/polaris-icons-sketch.git`
+2. Run `npm install skpm` inside the repo's folder
+3. Run `npm run build` to build the Sketch plugin
+
 ## Speed up your workflow
 
 Sketch is our design tool of choice at Shopify. It supports the use of plugins to adapt to different kinds of workflows. While working with Polaris and Sketch, we found switching context between Sketch and polaris-icons.shopify.com distracting and time consuming.
