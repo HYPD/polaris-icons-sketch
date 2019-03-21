@@ -12,7 +12,7 @@
 ## Usage
 1. [Download polaris-icons.sketchplugin.zip](http://dnl.rs/s/polaris-icons.sketchplugin.zip)
 2. Open the file in Sketch
-3. Lunch within Sketch with `⌃⌘I` or Plugins > Polaris Icons
+3. Lunch within Sketch with `Control + Command + I` or Plugins > Polaris Icons
 
 ## Speed up your workflow
 
