@@ -9,6 +9,11 @@
 2. Run `npm install skpm` inside the repo's folder
 3. Run `npm run build` to build the Sketch plugin
 
+## Usage
+1. [Download polaris-icons.sketchplugin.zip](http://dnl.rs/s/polaris-icons.sketchplugin.zip)
+2. Open the file in Sketch
+3. Lunch within Sketch with `⌃⌘I` or Plugins > Polaris Icons
+
 ## Speed up your workflow
 
 Sketch is our design tool of choice at Shopify. It supports the use of plugins to adapt to different kinds of workflows. While working with Polaris and Sketch, we found switching context between Sketch and polaris-icons.shopify.com distracting and time consuming.
