@@ -1,5 +1,5 @@
 {
-  "name": "Polaris Icons",
+  "name": "Polaris Icons (mini)",
   "identifier": "shopify.polaris-icons.search",
   "description": "A plugin to let everyone access Polaris Icons directly from within Sketch.",
   "author": "Shopify",
@@ -7,14 +7,14 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "Polaris Icons",
+      "name": "Polaris Icons (mini)",
       "identifier": "shopify.polaris-icons.show-plugin",
       "script": "./plugin.js",
       "shortcut": "command ctrl i"
     }
   ],
   "menu": {
-    "title": "Polaris Icons",
+    "title": "Polaris Icons (mini)",
     "isRoot": true,
     "items": ["shopify.polaris-icons.show-plugin"]
   }
