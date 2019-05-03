@@ -2,7 +2,7 @@
 
 > Access Polaris Icons from [Sketch](https://sketchapp.com/) to speed up your design or development workflow.
 
-![Cover image](https://dnl.rs/s/k91cx2x.png)
+![Cover image](https://dnl.rs/s/2kk6h2x.png)
 
 ## Install and build
 1. Clone this repo `git clone git@github.com:HYPD/polaris-icons-sketch.git`
